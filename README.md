@@ -1,4 +1,4 @@
-# ST 2067-203a - _Example Data Model Coverage Report_ 
+# ST 2067-203a - _XML schema document_ 
 
 _This repository is public._ 
 
